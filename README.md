@@ -35,19 +35,29 @@ FIRST SHOT RESULTS:
 QwQ running locally
 4.25bpw, 32,768 context, q6 kv cache, tabbyAPI, 40 tokens/second
 QwQ spent almost 14,000 tokens on its <think> step, then produced the output. The game is functional, looks good, plays smooth. Flight of the bird requires more spamming of space-bar which makes the game a bit more difficult. Everything seems to be well implemented.
+Video:
+[qwq.webm](https://github.com/user-attachments/assets/78db8af0-64b8-4b0d-a37d-81a012f2fbf5)
 
 ChatGPT 4.5
 The game plays well, but the ground is flashing wildly and isn't correct. The bird flight feels good.
+Video:
+[cgpt45.webm](https://github.com/user-attachments/assets/482ab2d5-56cf-4d3b-a560-31cf413ad138)
 
 ChatGPT O1 Mini High
 The game plays well, the bird moves well. Text in the death screen is going off-screen and isn't quite well centered.
+Video:
+[cgpto3minihigh.webm](https://github.com/user-attachments/assets/f76411eb-65f8-432e-ade7-0f71b312d0bb)
+
 
 ChatGPT O1 Pro
 Implementation looks good. The bird requires more spacebar "clicks" to navigate (gravity feels stronger). Fully playable, looks great, follows directions, no apparent issues.
+[simplescreenrecorder-2025-03-08_11.30.13.webm](https://github.com/user-attachments/assets/edb1fafd-d584-405e-8909-a7b762ba51ca)
 
 Claude 3.7 Extended Thinking
 Looks and feels great. The bird flies in a predictable way that still gives some interesting feedback (going higher than usual if you tap space repeatedly, etc). Probably the best implementation of the group, although QwQ and O1 Pro did fine jobs.
+[simplescreenrecorder-2025-03-08_11.31.13.webm](https://github.com/user-attachments/assets/bd5200ad-55ef-491b-890e-ebf713f356d0)
 
 Deepseek R1 (deepthink)
 Broken. Pipes are overlapping and the game can't be played properly.
+[simplescreenrecorder-2025-03-08_11.32.01.webm](https://github.com/user-attachments/assets/6e922146-e3c9-4c03-944b-78d2e9d6f4fc)
 
