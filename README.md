@@ -61,6 +61,15 @@ Deepseek R1 (deepthink)
 Broken. Pipes are overlapping and the game can't be played properly. I have previously seen R1 produce a functional flappy bird, so this is probably just an example of a single bad generation.
 [simplescreenrecorder-2025-03-08_11.32.01.webm](https://github.com/user-attachments/assets/6e922146-e3c9-4c03-944b-78d2e9d6f4fc)
 
+Mistral 24b
+Playable, but the ground is flashing and the score doesn't go up when I fly through pipe gaps. Not fully functional.
+
+Qwen 2.5 MAX
+Fully playable, fully working. This one gave more of an ipad-style size rather than a phone-style screen size. Works great.
+
+Qwen 32b Coder Instruct
+Fully playable, text in the game over area flows off-screen.
+
 ANALYSIS OF THE TOP 3 MODELS:
 
 (ChatGPT 4.5 analyzing the three files):
