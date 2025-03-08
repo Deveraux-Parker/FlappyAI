@@ -70,6 +70,22 @@ Fully playable, fully working. This one gave more of an ipad-style size rather t
 Qwen 32b Coder Instruct
 Fully playable, text in the game over area flows off-screen.
 
+Qwen 14b
+Playable, but pipes are flashing and scores don't work.
+
+Qwen 72b
+Starts, but crashes almost immediately:
+fbirdqwen72b.py", line 81, in check_collision
+    if pygame.Rect(self.x, self.y, 30, 30).colliderect(pipe[0]) or pygame.Rect(self.x, self.y, 30, 30).colliderect(pipe[1]):
+
+Qwen VL72b
+Starts, crashes immediately:
+fbirdqwenvl72b.py", line 72, in draw_pipes
+    pygame.draw.rect(screen, pipe_color, pipe)
+                             ^^^^^^^^^^
+NameError: name 'pipe_color' is not defined. Did you mean: 'bird_color'?
+
+
 ANALYSIS OF THE TOP 3 MODELS:
 
 (ChatGPT 4.5 analyzing the three files):
