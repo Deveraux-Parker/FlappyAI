@@ -43,7 +43,7 @@ The game plays well, but the ground is flashing wildly and isn't correct. The bi
 Video:
 [cgpt45.webm](https://github.com/user-attachments/assets/482ab2d5-56cf-4d3b-a560-31cf413ad138)
 
-ChatGPT O1 Mini High
+ChatGPT O3 Mini High
 The game plays well, the bird moves well. Text in the death screen is going off-screen and isn't quite well centered.
 Video:
 [cgpto3minihigh.webm](https://github.com/user-attachments/assets/f76411eb-65f8-432e-ade7-0f71b312d0bb)
