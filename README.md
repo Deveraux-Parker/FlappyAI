@@ -11,7 +11,7 @@ Create a Flappy Bird game in Python. You must include these things:
 8. When you lose, show the best score. Make the text inside the screen. Pressing q or Esc will quit the game. Restarting is pressing SPACE again.
 The final game should be inside a markdown section in Python. Check your code for errors and fix them before the final markdown section.
 
-Included are the resulting .py files. I've named them to make them easy to identify. For example, fbirdqwq32b425bpw.py is flappy bird, QwQ 32b, 4.25bpw, running locally. fbirdcgpt45.py is Chatgpt 4.5's attempt, and so on, and so forth.
+Included are the resulting .py files. I've named them to make them easy to identify. For example, fbirdqwq32b425bpw.py is flappy bird, QwQ 32b, 4.25bpw, running locally. fbirdcgpt45.py is Chatgpt 4.5's attempt, and so on, and so forth. Again, this is a FIRST SHOT attempt with no followup prompting.
 
 I took care to ensure every generation was using the best possible settings and setup. For example, the prompt for QwQ locally was:
 
