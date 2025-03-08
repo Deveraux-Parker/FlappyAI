@@ -34,7 +34,7 @@ FIRST SHOT RESULTS:
 
 QwQ running locally
 4.25bpw, 32,768 context, q6 kv cache, tabbyAPI, 40 tokens/second
-QwQ spent almost 14,000 tokens on its <think> step, then produced the output. The game is functional, looks good, plays smooth. Flight of the bird requires more spamming of space-bar which makes the game a bit more difficult. Everything seems to be well implemented.
+QwQ spent almost 14,000 tokens on its <think> step, then produced the output. The game is functional, looks good, plays smooth. Everything seems to be well implemented.
 Video:
 [qwq.webm](https://github.com/user-attachments/assets/78db8af0-64b8-4b0d-a37d-81a012f2fbf5)
 
