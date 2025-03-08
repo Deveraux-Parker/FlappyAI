@@ -58,6 +58,6 @@ Looks and feels great. The bird flies in a predictable way that still gives some
 [simplescreenrecorder-2025-03-08_11.31.13.webm](https://github.com/user-attachments/assets/bd5200ad-55ef-491b-890e-ebf713f356d0)
 
 Deepseek R1 (deepthink)
-Broken. Pipes are overlapping and the game can't be played properly.
+Broken. Pipes are overlapping and the game can't be played properly. I have previously seen R1 produce a functional flappy bird, so this is probably just an example of a single bad generation.
 [simplescreenrecorder-2025-03-08_11.32.01.webm](https://github.com/user-attachments/assets/6e922146-e3c9-4c03-944b-78d2e9d6f4fc)
 
